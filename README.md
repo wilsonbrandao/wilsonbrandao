@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Wilson Brandão. Nice to meet you. 👋🏾
 
 **wilsonbrandao/wilsonbrandao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,7 +23,7 @@
 
 ![Wilson_Brandao's github stats](https://github-readme-stats.vercel.app/api?username=wilsonbrandao&show_icons=true&theme=dark&icon_color=fff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonbrandao&theme=dark&title_color=fff&text_color=fff)
+![Top Langs] align="right" (https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonbrandao&theme=dark&title_color=fff&text_color=fff)
 
 Here are some ideas to get you started:
 
