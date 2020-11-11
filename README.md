@@ -4,6 +4,8 @@
 
 ![Wilson_Brandao's github stats](https://github-readme-stats.vercel.app/api?username=wilsonbrandao&show_icons=true&theme=dark)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonbrandao&theme=radical&title_color=8E2DE2&text_color=fff)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
