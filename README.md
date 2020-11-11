@@ -23,7 +23,7 @@
 
 ![Wilson_Brandao's github stats](https://github-readme-stats.vercel.app/api?username=wilsonbrandao&show_icons=true&theme=dark&icon_color=fff)
 
-![Top Langs] (https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonbrandao&theme=dark&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonbrandao&theme=dark&title_color=fff&text_color=fff&align="right")
 
 Here are some ideas to get you started:
 
