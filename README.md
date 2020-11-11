@@ -17,6 +17,14 @@
 
 - <a href="https://twitter.com/_Hotwheelson"><img src="https://img.shields.io/badge/twitter%20@_Hotwheelson-0D95E8?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 
+### MY SKILLS!
+![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
+![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=000000)
+![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
+
+
+
+
 ### MY GITHUB STATUS!
 ![Wilson_Brandao's github stats](https://github-readme-stats.vercel.app/api?username=wilsonbrandao&show_icons=true&theme=dark&icon_color=fff)
 
