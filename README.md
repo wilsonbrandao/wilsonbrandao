@@ -20,9 +20,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=000000)
 
 ### MY GITHUB STATUS!
-![Wilson_Brandao's github stats](https://github-readme-stats.vercel.app/api?username=wilsonbrandao&show_icons=false&theme=dark&icon_color=fff)
+![Wilson_Brandao's github stats](https://github-readme-stats.vercel.app/api?username=wilsonbrandao&show_icons=true&theme=dark&icon_color=ffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonbrandao&theme=dark&title_color=fff&text_color=fff)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wilsonbrandao&theme=dark&title_color=ffff&text_color=fff)
 
 
 
