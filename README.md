@@ -1,14 +1,5 @@
 ### Hi, I'm Wilson Brandão. Nice to meet you. 👋🏾
 
-*I'm here to learn how to create a better world. I just love what I do.❤️*
-
-### ABOUT ME!
-- 🌱 I’m currently learning.
-- 👯 I’m looking to collaborate on social impact projects.
-- 🤔 I’m looking for help people who are starting in programming.
-- 💬 Ask me about anything but know that I am passionate about technology and architecture.
-- ⚡ Fun fact: I am a construction architect wanting to become a software architect.  :)
-
 ### CONECT WITH ME!
 <a href="https://www.instagram.com/_itsbrandao/"><img src="https://img.shields.io/badge/instagram%20@_itsbrandao-gray?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a>
 <a href="https://www.facebook.com/wilson.brandao.56"><img src="https://img.shields.io/badge/facebook%20@WILSON.BRANDAO.56-gray?style=for-the-badge&logo=facebook&logoColor=white&labelColor=000000"/></a>
