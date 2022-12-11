@@ -3,7 +3,7 @@
 ### CONECT WITH ME!
 <a href="https://www.instagram.com/_itsbrandao/"><img src="https://img.shields.io/badge/instagram%20@_itsbrandao-gray?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000"/></a>
 
-<a href="https://www.linkedin.com/in/wilson-brandao-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=gray" target="_blank"></a>   
+<a href="https://www.linkedin.com/in/wilson-brandao-costa" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" target="_blank"></a>   
 
 ### MY SKILLS!
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=000000)
